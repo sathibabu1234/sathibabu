@@ -1,5 +1,3 @@
-# sathibabu
-
 
 <h1 align="center">Hi 👋, I'm Sathibabu</h1>
 <h3 align="center">Manual and Automation Testing Enthusiast from India</h3>
